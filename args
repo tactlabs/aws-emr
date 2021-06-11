@@ -1,0 +1,4 @@
+
+--data_source s3://BUCKET/food_establishment_data.csv
+--output_uri s3://BUCKET/myOutputFolder
+							
